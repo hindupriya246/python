@@ -1,0 +1,18 @@
+#Basic Arithmetic: Write a Python program to add, subtract, multiply, and divide two numbers provided by the user
+#import math
+x = int(input("give the value of x : "))
+y = int(input("give the value of y : "))
+operation = "+ or - or *"
+if sum :
+    sum = x + y
+    print(sum)
+elif substrct:
+    sub = x - y
+    print(sub)
+elif multiply:
+    mult = x * y
+    print (mult)
+elif division :
+    divi = x // y 
+else:
+    print("invailed")
